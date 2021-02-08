@@ -1,0 +1,45 @@
+.sub-main{
+    width: 250px;
+    margin: 0 auto;
+    background: linear-gradient(white,lightgrey);
+}
+.inp{
+    padding: 10px;
+    width: 100%;
+    
+
+    
+}
+.buttons{
+    flex-wrap: wrap;
+    align-items: center;
+}
+.btn{
+    color: gray ;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 20px;
+    margin: 5px;
+}
+.btn:hover{
+    background-color: gainsboro;
+}
+#equal{
+    background-color: orange;
+    height: 80px;
+}
+#equal:hover{
+    background-color: gold;
+}
+.h{
+    width: 90%;
+    height: 50px;
+}
+#clear{
+    width: 80%;
+    background-color: rgb(161, 194, 113) ;
+    
+}
+#clear:hover{
+    background-color: khaki;
+}
